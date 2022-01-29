@@ -192,6 +192,7 @@ public class DadosClineteActivity extends AppCompatActivity {
         finish();
     }
 //--------------------------------------------------------------------------------------------------
+    //INICIANDO COMUNICACAO WEB
 public class SendRequest extends AsyncTask<String, Void, String> {
 
     protected void onPreExecute(){}
